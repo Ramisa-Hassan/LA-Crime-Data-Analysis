@@ -6,3 +6,6 @@ This project is focused on analyzing crime patterns and forecasting future crime
 
 ## Motivation
 Crime prevention and resource optimization are critical for large urban areas. By predicting crime trends, this project aims to help law enforcement agencies proactively allocate resources to the areas that need it most. The insights generated are designed to support better strategic decision-making for policymakers and security departments.
+
+## Target Audience
+1. Law enforcement agencies seeking data-driven insights to allocate resources more efficiently.
