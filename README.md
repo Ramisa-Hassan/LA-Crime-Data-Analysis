@@ -9,3 +9,5 @@ Crime prevention and resource optimization are critical for large urban areas. B
 
 ## Target Audience
 1. Law enforcement agencies seeking data-driven insights to allocate resources more efficiently.
+2. Policymakers aiming to implement crime prevention strategies based on predicted crime trends.
+3. Data science enthusiasts interested in machine learning applications for real-world problems.
