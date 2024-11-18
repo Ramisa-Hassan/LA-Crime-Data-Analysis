@@ -11,3 +11,14 @@ Crime prevention and resource optimization are critical for large urban areas. B
 1. Law enforcement agencies seeking data-driven insights to allocate resources more efficiently.
 2. Policymakers aiming to implement crime prevention strategies based on predicted crime trends.
 3. Data science enthusiasts interested in machine learning applications for real-world problems.
+
+## Key Features
+1. Crime Trend Analysis:
+   - Conducted exploratory data analysis (EDA) on Los Angeles crime data, including demographic and geospatial factors.
+   - Mapped crime incidents to visualize crime density and hotspots across the city.
+2. Time Series Forecasting:
+   - Used SARIMAX and Prophet models to predict future crime rates for 2024 and 2025.
+   - Identified seasonal and trend patterns in the data to forecast high-risk time periods.
+3. Cloud Deployment:
+   - Deployed the model and ran the entire analysis pipeline on AWS EC2 to ensure scalability and performance.
+   - Leveraged cloud computing for processing large datasets efficiently.
