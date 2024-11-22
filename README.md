@@ -22,3 +22,18 @@ Crime prevention and resource optimization are critical for large urban areas. B
 3. Cloud Deployment:
    - Deployed the model and ran the entire analysis pipeline on AWS EC2 to ensure scalability and performance.
    - Leveraged cloud computing for processing large datasets efficiently.
+
+## Technologies & Tools
+1. Programming Languages & Libraries:
+   - Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly).
+   - Statsmodels for SARIMAX model.
+   - Facebook Prophet for time series forecasting.
+2. Data Processing & Analysis:
+   - Data Cleaning & Feature Engineering.
+   - One-hot encoding, Principal Component Analysis (PCA).
+3. Cloud Platform:
+   - AWS EC2 for running the predictive models and data processing pipeline.
+4. Visualization:
+   - Plotly for interactive, web-based visualizations.
+   - Matplotlib and Seaborn for statistical and geographical analysis.
+
