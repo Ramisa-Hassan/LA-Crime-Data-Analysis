@@ -37,3 +37,7 @@ Crime prevention and resource optimization are critical for large urban areas. B
    - Plotly for interactive, web-based visualizations.
    - Matplotlib and Seaborn for statistical and geographical analysis.
 
+## Results
+1. Forecasted crime rates for 2024 and 2025 using SARIMAX and Prophet models.
+2. Identified high-crime areas and temporal trends in Los Angeles.
+3. Delivered interactive visualizations to support decision-making for law enforcement.
